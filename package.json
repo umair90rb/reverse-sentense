@@ -1,0 +1,24 @@
+{
+  "name": "@umair90rb/reverse-sentense",
+  "version": "0.1.0",
+  "description": "Reverses the words of a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair90rb/reverse-sentense.git"
+  },
+  "bugs": {
+    "url": "https://github.com/umair90rb/reverse-sentense/issues"
+  },
+  "homepage": "https://github.com/umair90rb/reverse-sentense#readme",
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}
